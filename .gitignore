@@ -4,9 +4,3 @@
 #IDE
 .vscode
 .idea
-
-#config
-/config
-
-#bundle
-/dist
